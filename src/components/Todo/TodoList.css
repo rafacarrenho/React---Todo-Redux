@@ -1,0 +1,13 @@
+.done {
+  color: white;
+  background-color: rgb(98, 211, 88);
+}
+
+.max-w {
+  width: 120px;
+}
+
+.table td,
+.table th {
+  vertical-align: unset;
+}

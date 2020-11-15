@@ -1,0 +1,12 @@
+button {
+  outline: 0 !important;
+}
+
+button:focus,
+input {
+  box-shadow: none !important;
+}
+
+a {
+  text-decoration: none !important;
+}

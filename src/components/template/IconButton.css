@@ -1,0 +1,12 @@
+.btn {
+  height: 100%;
+  margin-right: 5px;
+}
+
+.btn svg {
+  height: 16px;
+}
+
+.btn-warning {
+  color: white !important;
+}

@@ -1,0 +1,29 @@
+nav.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0 8px #e2e7e0;
+}
+
+nav.navbar a {
+  color: #3fd660;
+  transition: 0.3s ease;
+}
+
+nav.navbar a:hover {
+  color: #00740c;
+}
+
+.menu-list {
+  list-style: none;
+  display: flex;
+  margin: 0;
+}
+
+span.rcarrenho {
+  color: black;
+  font-size: 1.3rem;
+}
+span.rcarrenho span {
+  color: #3fd660;
+}
